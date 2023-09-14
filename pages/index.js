@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>My name is Vien Arman C. Cabrera, 10 Things That Require Zero Talent
+        <p> 10 Things That Require Zero Talent
 
 1. Being On Time
 2. Making An Effort
