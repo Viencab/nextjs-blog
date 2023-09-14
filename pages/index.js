@@ -11,7 +11,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p> 10 Things That Require Zero Talent
 
-1. Being On Time
+<br> 1. Being On Time <br>
 2. Making An Effort
 3. Being High Energy
 4. Having A Positive Attitude
